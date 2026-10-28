@@ -135,7 +135,6 @@ main {
 
 .introduction-text {
     flex: 1;
-    min-width: 0;
     filter: drop-shadow(2px 2px 0 rgba(0, 0, 0, 1));
 }
 
